@@ -1,3 +1,3 @@
 // Fichero .js creado
 
-console.log("hola");
+console.log("hola mundo");
