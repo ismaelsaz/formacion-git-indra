@@ -8,4 +8,5 @@ function login(){
 
 function camera(){
     //Cámara creada
+    // Bud arreglado
 }
