@@ -8,5 +8,5 @@ function login(){
 
 function camera(){
     //Cámara creada
-    //Bud arreglado, bug refactorizado
+    //Bud arreglado y refactorizado
 }
