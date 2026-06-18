@@ -7,3 +7,5 @@ Este es el fichero .md para el repositorio formacio-git-indra.
 ````
 Documentación completada y ampliada
 actualizada a fecha 17 de junio.
+
+Jue 18 jun 2026 -> First release
